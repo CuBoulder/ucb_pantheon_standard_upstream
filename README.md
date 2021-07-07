@@ -4,6 +4,6 @@ This is the CU Boulder standard upstream for use with Pantheon.
 
 ## Site creation via Terminus
 
-terminus site:create --org="university-of-colorado-boulder" -- <site-name> <site-name> "UCB Standard Upstream"
+terminus site:create --org="university-of-colorado-boulder" -- \<site-name\> \<site-name\> "UCB Standard Upstream"
 
-terminus drush <site-name>.dev -- site-install
+terminus drush \<site-name\>.dev -- site-install ucb2021_profile -y
