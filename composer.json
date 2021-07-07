@@ -22,10 +22,12 @@
         }
     ],
     "require": {
-        "pantheon-upstreams/upstream-configuration": "*",
-        "drush/drush": "^10",
+        "cu-boulder/ucb2021_base": "dev-main",
         "cu-boulder/ucb_2021_profile": "dev-main",
-        "cu-boulder/ucb2021_base": "dev-main"
+        "drupal/admin_toolbar": "^3.0",
+        "drupal/webform": "^6.0",
+        "drush/drush": "^10",
+        "pantheon-upstreams/upstream-configuration": "*"
     },
     "conflict": {
             "drupal/drupal": "*"
