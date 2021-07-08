@@ -1,0 +1,5 @@
+config:
+  xdebug: true
+  index: false
+  edge: false
+  cache: false
