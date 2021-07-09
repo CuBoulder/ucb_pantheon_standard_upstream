@@ -133,3 +133,6 @@ upstream/web/
 
 # Ignore local lando overrides
 /.lando.local.yml
+
+# Ignore composer lock file
+/composer.lock
