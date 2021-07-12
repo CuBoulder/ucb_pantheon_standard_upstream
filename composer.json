@@ -22,12 +22,6 @@
         }
     ],
     "require": {
-        "cu-boulder/ucb2021_base": "dev-main",
-        "cu-boulder/ucb_2021_profile": "dev-main",
-        "drupal/admin_toolbar": "^3.0",
-        "drupal/features": "^3.12",
-        "drupal/gin": "^3.0",
-        "drupal/webform": "^6.0",
         "drush/drush": "^10",
         "pantheon-upstreams/upstream-configuration": "*"
     },
@@ -71,5 +65,5 @@
             "php": "7.4"
         }
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
