@@ -34,6 +34,12 @@
         "installer-paths": {
             "web/core": ["type:drupal-core"],
             "web/libraries/{$name}": ["type:drupal-library"],
+            "cu-boulder/ucb2021_base": "dev-main",
+            "cu-boulder/ucb_2021_profile": "dev-main",
+            "drupal/admin_toolbar": "^3.0",
+            "drupal/features": "^3.12",
+            "drupal/gin": "^3.0",
+            "drupal/webform": "^6.0",
             "web/modules/composer/{$name}": ["type:drupal-module"],
             "web/profiles/composer/{$name}": ["type:drupal-profile"],
             "web/themes/composer/{$name}": ["type:drupal-theme"],
