@@ -1,20 +1,6 @@
 {
     "name": "pantheon-upstreams/upstream-configuration",
     "type": "project",
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.drupal.org/8"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/CuBoulder/ucb2021_base"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/CuBoulder/ucb_2021_profile"
-        }
-    ],
     "require": {
         "php": ">=7.4",
         "composer/installers": "^1.8",

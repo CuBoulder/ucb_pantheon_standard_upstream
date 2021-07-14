@@ -11,6 +11,14 @@
         {
             "type": "path",
             "url": "upstream-configuration"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/CuBoulder/ucb2021_base"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/CuBoulder/ucb_2021_profile"
         }
     ],
     "require": {
