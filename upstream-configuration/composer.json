@@ -15,6 +15,8 @@
         "pantheon-systems/drupal-integrations": "^8 || ^9",
         "cweagans/composer-patches": "^1.0",
         "zaporylie/composer-drupal-optimizations": "^1.2",
+        "cu-boulder/ucb2021_base": "dev-main",
+        "cu-boulder/ucb_2021_profile": "dev-main",
         "drupal/admin_toolbar": "^3.0",
         "drupal/features": "^3.12",
         "drupal/webform": "^6.0",
