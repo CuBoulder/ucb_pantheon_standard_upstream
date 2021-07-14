@@ -21,5 +21,6 @@
         "drupal/features": "^3.12",
         "drupal/webform": "^6.0",
         "drupal/gin": "^3.0@alpha"
-    }
+    },
+    "version": "1.0.0"
 }
