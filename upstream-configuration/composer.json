@@ -20,9 +20,7 @@
         "drupal/admin_toolbar": "^3.0",
         "drupal/features": "^3.12",
         "drupal/webform": "^6.0",
-        "drupal/gin": "^3.0@alpha",
-        "drupal/simple_sitemap": "^3.10",
-        "drupal/paragraphs": "^1.12"
+        "drupal/gin": "^3.0@alpha"
     },
-    "version": "1.0.7"
+    "version": "1.0.0"
 }
