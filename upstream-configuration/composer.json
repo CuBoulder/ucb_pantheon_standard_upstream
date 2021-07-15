@@ -20,8 +20,7 @@
         "drupal/admin_toolbar": "^3.0",
         "drupal/features": "^3.12",
         "drupal/webform": "^6.0",
-        "drupal/gin": "^3.0@alpha",
-        "drupal/token": "^1.9"
+        "drupal/gin": "^3.0@alpha"
     },
-    "version": "1.0.2"
+    "version": "1.0.0"
 }
